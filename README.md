@@ -1,2 +1,2 @@
-# Ejer01_Nicol-s.Hern-ndez
+# Ejer01_Nicolas.Hernandez
 Ejercicio Para el 30 de Septiembre.
